@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer / SQA from Dominican Republic</h3>
+<h1 align="center">Hi 👋, I'm Raffy Rodriguez</h1>
+<h3 align="center">A passionate frontend developer / SDET from The Dominican Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elraffy&label=Profile%20views&color=0e75b6&style=flat" alt="elraffy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elraffy" alt="elraffy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/raffyro50887118" target="blank"><img src="https://img.shields.io/twitter/follow/raffyro50887118?logo=twitter&style=for-the-badge" alt="raffyro50887118" /></a> </p>
+
+- 📝 I regularly write articles on [Dev.to](Dev.to)
+
+- 💬 Ask me about **Angular, Javascript, TypeScript, CSS, Bootstrap, Software Testing.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elraffy&show_icons=true&locale=en" alt="elraffy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elraffy&" alt="elraffy" /></p>
-
