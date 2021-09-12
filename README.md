@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/elraffy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elraffy" height="30" width="40" /></a>
 <a href="https://twitter.com/raffyro50887118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raffyro50887118" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raffy-a-rodriguez-400552110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raffy-a-rodriguez-400552110/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raffy-a-rodriguez-400552110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffy-a-rodriguez-400552110/" height="30" width="40" /></a>
 <a href="https://instagram.com/im.anyelo_rod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.anyelo_rod" height="30" width="40" /></a>
 </p>
 
