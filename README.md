@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div align="center">
 <img width="100%" height = "200px" src="" alt="cover" />
