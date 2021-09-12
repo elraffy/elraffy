@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="gs://angularfirestore-64778.appspot.com/code-minimalism-1920x1080.jpg" alt="cover" />
+</div>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
