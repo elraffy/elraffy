@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Raffy Rodriguez</h1>
-<h3 align="center">A passionate frontend developer / SDET from The Dominican Republic.</h3>
+<h3 align="center">A passionate frontend developer / SQA from The Dominican Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elraffy&label=Profile%20views&color=0e75b6&style=flat" alt="elraffy" /> </p>
 
