@@ -4,9 +4,6 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-# Raffy Rodriguez
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaffyRod%2FRaffyRod&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -16,7 +13,7 @@
 
 [![Github](https://img.shields.io/github/followers/RaffyRod?label=Follow&style=social)](https://github.com/RaffyRod)
 
-🚀 Passionate about Quality Assurance and Software Development, I'm a versatile professional adept at ensuring software products meet the highest standards of functionality, usability, and performance. With a solid foundation in agile methodologies, I excel in roles spanning from Software QA Engineering to Software Development Engineer in Test (SDET), bringing diverse experiences including mobile testing and proficiency in automation frameworks like Playwright and Cypress for web and API testing.
+🚀 I'm Raffy Rodriguez Passionate about Quality Assurance and Software Development, a versatile professional adept at ensuring software products meet the highest standards of functionality, usability, and performance. With a solid foundation in agile methodologies, I excel in roles spanning from Software QA Engineering to Software Development Engineer in Test (SDET), bringing diverse experiences including mobile testing and proficiency in automation frameworks like Playwright and Cypress for web and API testing.
 
 
 ### 🖥 Skills
