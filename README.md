@@ -29,11 +29,11 @@
 ### Currently
 
 <div>
-  <img width="60%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaffyRod&show_icons=true&locale=en&layout=compact" alt="RaffyRod" />
+  <img width="50%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaffyRod&show_icons=true&locale=en&layout=compact" alt="RaffyRod" />
 </div>
  </br>
 <div>
-  <img width="60%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaffyRod&" alt="RaffyRod" />
+  <img width="50%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaffyRod&" alt="RaffyRod" />
 </div>
 
 
