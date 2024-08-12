@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/github/followers/RaffyRod?label=Follow&style=social)](https://github.com/RaffyRod)
 
-🚀 I'm Raffy Rodriguez Passionate about Quality Assurance and Software Development, a versatile professional adept at ensuring software products meet the highest standards of functionality, usability, and performance. With a solid foundation in agile methodologies, I excel in roles spanning from Software QA Engineering to Software Development Engineer in Test (SDET), bringing diverse experiences including mobile testing and proficiency in automation frameworks like Playwright and Cypress for web and API testing.
+🚀 I'm Raffy Rodriguez, Passionate about Quality Assurance and Software Development, a versatile professional adept at ensuring software products meet the highest standards of functionality, usability, and performance. With a solid foundation in agile methodologies, I excel in roles spanning from Software QA Engineering to Software Development Engineer in Test (SDET), bringing diverse experiences including mobile testing and proficiency in automation frameworks like Playwright and Cypress for web and API testing.
 
 
 ### 🖥 Skills
@@ -30,7 +30,6 @@
 
 <div>
   <img width="45%" height="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaffyRod&show_icons=true&locale=en&layout=compact" alt="RaffyRod" />
-</br>
   <img width="50%" height="90%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RaffyRod&" alt="RaffyRod" />
 </div>
 
